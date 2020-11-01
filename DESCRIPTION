@@ -7,6 +7,7 @@ Maintainer: <rohangreddy@gmail.com>
 Description: This package contains useful functions for working with DRG data.
     calc_stats calculates mean, median, or standard deviation for average medicare payments of DRG data.
     make_drg_box generates a box plot of payment information vs DRG code. 
+Imports: tidyverse
 License: Cornell
 Encoding: UTF-8
 LazyData: true
