@@ -11,6 +11,7 @@
 #' @export
 #'
 #' @import tidyverse
+#' @importFrom magrittr %>%
 #'
 #' @examples
 #'
