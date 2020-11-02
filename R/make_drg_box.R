@@ -9,7 +9,7 @@
 #' @return A plot with \code{variable} versus DRG code
 #' @export
 #'
-#' @import dplyr
+#' @importFrom dplyr mutate
 #' @import ggplot2
 #'
 #' @examples
