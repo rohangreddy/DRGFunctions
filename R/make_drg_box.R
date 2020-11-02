@@ -9,7 +9,8 @@
 #' @return A plot with \code{variable} versus DRG code
 #' @export
 #'
-#' @importFrom magrittr %>%
+#' @import magrittr
+#' @import dplyr
 #' @importFrom ggplot2 ggplot
 #' @importFrom ggplot2 geom_boxplot
 #' @importFrom ggplot2 theme
