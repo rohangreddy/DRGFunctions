@@ -9,8 +9,13 @@
 #' @return A plot with \code{variable} versus DRG code
 #' @export
 #'
-#' @import tidyverse
 #' @importFrom magrittr %>%
+#' @importFrom ggplot2 ggplot
+#' @importFrom ggplot2 geom_boxplot
+#' @importFrom ggplot2 theme
+#' @importFrom ggplot2 ylab
+#' @importFrom ggplot2 xlab
+#' @importFrom ggplot2 ggtitle
 #'
 #' @examples
 #'
